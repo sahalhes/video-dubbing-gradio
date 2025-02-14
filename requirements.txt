@@ -1,0 +1,9 @@
+git+https://github.com/jvkap/googletrans-fixed.git
+edge-tts
+insanely-fast-whisper
+opencv-python
+huggingface-hub
+moviepy
+spaces
+ffmpeg-python
+gradio
